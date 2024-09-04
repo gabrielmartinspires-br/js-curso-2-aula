@@ -12,3 +12,6 @@ function verificarChute() {
   console.log("O botão foi clicado!");
 }
 
+function gerarNumeroAleatorio() {
+  parseInt(Math.random() * 10 + 1);
+}
