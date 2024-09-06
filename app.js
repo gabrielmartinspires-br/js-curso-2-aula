@@ -1,0 +1,2 @@
+let numeriSecreto = gerarNumeroAleatorio();
+
